@@ -1,0 +1,10 @@
+.vscode/
+build
+__pycache__
+.local
+.idea
+cmake-build-debug
+.pytest_cache
+*.egg-info
+.clang-format
+*.pyc
