@@ -3,6 +3,8 @@
 
 int main()
 {
-    std::cout << "HELLO, WORLD! 5+3 = " << dummy::add(5, 3) << std::endl;
+    const int a = 5;
+    const int b = 3;
+    std::cout << "HELLO, WORLD! 5+3 = " << dummy::add(a, b) << std::endl;
     return 0;
 }

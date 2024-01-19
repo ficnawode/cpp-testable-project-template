@@ -6,4 +6,4 @@ namespace dummy
     {
         return a + b;
     }
-} // namespace dummy
+}
